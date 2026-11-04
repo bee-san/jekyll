@@ -6,7 +6,7 @@
 [![Test Coverage](https://img.shields.io/codeclimate/coverage/github/jekyll/jekyll.svg)][coverage]
 [![Code Climate](https://img.shields.io/codeclimate/github/jekyll/jekyll.svg)][codeclimate]
 [![Dependency Status](https://img.shields.io/gemnasium/jekyll/jekyll.svg)][gemnasium]
-[![Security](https://hakiri.io/github/jekyll/jekyll/master.svg)][hakiri]
+[![Security](https://hakiri.io/github/jekyll/jekyll/master.svg)][hakiri] [![Discord](https://img.shields.io/discord/754001738184392704?logo=discord&label=Discord)](https://discord.skerritt.blog)
 
 [ruby-gems]: https://rubygems.org/gems/jekyll
 [gemnasium]: https://gemnasium.com/jekyll/jekyll
